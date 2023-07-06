@@ -1,3 +1,4 @@
 # Ignore the virtual environment directory
 venv
 Submissions_RFR/regression_model.joblib
+.idea
